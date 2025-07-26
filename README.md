@@ -22,11 +22,11 @@
 
 ###
 
-<h1 align="center">! everyone👋</h1>
+<h1 align="center">! Hi👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Something about me</h3>
+<h3 align="left">👩‍💻 Its about me</h3>
 
 ###
 
