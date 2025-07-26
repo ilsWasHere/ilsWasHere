@@ -64,7 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="logo de visualstudio" />
 </div>
 
-<h2 align="center">GitHub Stats :octocat:</h2>
+<h2 align="center">GitHub Stats 💀</h2>
 
 <!--- stats & trophies (start) -->
 <p align="center">
