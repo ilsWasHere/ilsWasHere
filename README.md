@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">  Nationalidad 🇨🇱 <br> ⚡ Coming back...</p>
+<p align="left">  🇨🇱 Nationalidad  <br> ⚡ Coming back...</p>
 
 ###
 
