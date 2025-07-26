@@ -63,3 +63,30 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="logo de visualstudio" />
 </div>
+
+<h2 align="center">GitHub Stats :octocat:</h2>
+
+<!--- stats & trophies (start) -->
+<p align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilsWasHere&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+        <br/><br/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilsWasHere&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsWasHere&layout=compact&theme=dark&hide_border=false&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=ilsWasHere&theme=radical&row=1&column=7&margin-w=5&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+    </a>
+  </div>
+</p>
+<!--- stats & trophies (end) -->
