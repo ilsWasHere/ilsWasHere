@@ -1,38 +1,20 @@
-<div align="center">
-    <img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=6885c445&is=688472c5&hm=fac65810750127427d12259a61455cbf137e418db8eb3c0177a5538ceced3abd&=&width=448&height=190" />
-</div>
+<h1 align="center">✖ ilsWasHere ✖</h1>
 
-###
+<img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=6885c445&is=688472c5&hm=fac65810750127427d12259a61455cbf137e418db8eb3c0177a5538ceced3abd&=&width=448&height=190" />
 
-<br clear="both">
+---
 
-<div align="center">
-<a href="https://youtube.com/@ilsWasHere"_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de youtube" />
-</a>
+🪦 **You looked away. I stayed.**  
+☠️ _Pwned your fears, coded your regrets._
 
-<a href="https://discord.gg/FxzFuaM5jQ" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de discord" />
-</a>
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de instagram" />
-    <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de visualstudio" />
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de twitch" />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo de gmail" />
-</div>
+[![YouTube](https://img.shields.io/badge/YOUTUBE-🔥-red?style=for-the-badge&logo=youtube)](yourlink)
+[![Discord](https://img.shields.io/badge/DISCORD-ghost-blue?style=for-the-badge&logo=discord)](yourlink)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-darkpink?style=for-the-badge&logo=instagram)](yourlink)
+[![Twitch](https://img.shields.io/badge/TWITCH-void-purple?style=for-the-badge&logo=twitch)](yourlink)
 
-###
+---
 
-<h1 align="center">! Hi👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 Its about me</h3>
-
-###
-
-<p align="left">  🇨🇱 Nationalidad  <br> ⚡ Coming back...</p>
-
-###
+### ❖ About me
 
 <h3 align="left">🛠 Lenguajes </h3>
 
