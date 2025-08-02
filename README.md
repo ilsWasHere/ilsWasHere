@@ -8,10 +8,10 @@
 🪦 **You looked away. I stayed.**  
 ☠️ _Pwned your fears, coded your regrets._
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-🔥-red?style=for-the-badge&logo=youtube)](yourlink)
-[![Discord](https://img.shields.io/badge/DISCORD-ghost-blue?style=for-the-badge&logo=discord)](yourlink)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-darkpink?style=for-the-badge&logo=instagram)](yourlink)
-[![Twitch](https://img.shields.io/badge/TWITCH-void-purple?style=for-the-badge&logo=twitch)](yourlink)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-🔥-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ilsWasHere)
+[![Discord](https://img.shields.io/badge/DISCORD-ghost-blue?style=for-the-badge&logo=discord)]()
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-darkpink?style=for-the-badge&logo=instagram)]()
+[![Twitch](https://img.shields.io/badge/TWITCH-void-purple?style=for-the-badge&logo=twitch)]()
 
 ---
 <h3 align="left">🛠 Lenguajes </h3>
