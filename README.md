@@ -1,4 +1,4 @@
-<h1 align="center">✖ ilsWasHere ✖</h1>
+<h1 align="center">☠️  ilsWasHere ☠️ </h1>
 
 <p align="center">
 <img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=6885c445&is=688472c5&hm=fac65810750127427d12259a61455cbf137e418db8eb3c0177a5538ceced3abd&=&width=448&height=190" />
@@ -14,9 +14,6 @@
 [![Twitch](https://img.shields.io/badge/TWITCH-void-purple?style=for-the-badge&logo=twitch)](yourlink)
 
 ---
-
-### ❖ About me
-
 <h3 align="left">🛠 Lenguajes </h3>
 
 ###
