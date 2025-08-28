@@ -10,15 +10,15 @@
 Your Fucking Mother
 ---
 
-### 
+### 🌐 
 <p align="center">
   <a href="https://www.youtube.com/@ilsWasHere">
     <img src="https://img.shields.io/badge/YOUTUBE-🔥-red?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="#">
+  <a href="https://discord.com/invite/3SJscqyafq">
     <img src="https://img.shields.io/badge/DISCORD-ghost-blue?style=for-the-badge&logo=discord" />
   </a>
-  <a href="#">
+  <a href="https://instagram.com/ilssw4g">
     <img src="https://img.shields.io/badge/INSTAGRAM-darkpink?style=for-the-badge&logo=instagram" />
   </a>
   <a href="#">
@@ -28,7 +28,7 @@ Your Fucking Mother
 
 ---
 
-### 🛠 Lenguajes 
+### 🛠 Lenguajes y Herramientas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -68,4 +68,3 @@ Your Fucking Mother
     <img src="https://github-profile-trophy.vercel.app/?username=ilsWasHere&theme=radical&row=1&column=7&margin-w=5&margin-h=15&no-bg=true" />
   </a>
 </div>
-
