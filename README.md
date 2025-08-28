@@ -1,12 +1,12 @@
-<h1 align="center">☠️  ilsWasHere ☠️ </h1>
+<h1 align="center">☠️  Gassed ☠️ </h1>
 
 <p align="center">
-<img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=68a21c85&is=68a0cb05&hm=ebaf4a16b1f36bf548f9ea3ccffa2f14c787ebea7d7a8deff3211f72e9e173ea&=&width=448&height=190" />
+<img height="150" src="https://images-ext-1.discordapp.net/external/QK6wQYVCdy3sRmfefyZ_RbSOnSLrFiH6ZLIT-yOhuUA/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1122733498680229950/a_70fef66365b23b9f0d3150e8d202ded1.gif?width=448&height=448" />
 
 ---
 
-🪦 **You looked away. I stayed.**  
-☠️ _Pwned your fears, coded your regrets._
+🪦 **Best developer in chile**  
+☠️ _No te creas algo que nunca seras_
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-🔥-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ilsWasHere)
 [![Discord](https://img.shields.io/badge/DISCORD-ghost-blue?style=for-the-badge&logo=discord)]()
