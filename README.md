@@ -6,7 +6,7 @@
 
 ---
 
-### 🪦 About Me
+### $ About Me
 Your Fucking Mother
 ---
 
