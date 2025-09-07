@@ -1,7 +1,7 @@
 <h1 align="center">☠️  Gassed ☠️</h1>
 
 <p align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=68b1ee85&is=68b09d05&hm=cb8d0b885cc09ca30e79c3b9262381c69c38d85a87ba0c1a6d2b6c1c8e1acb40&=&width=448&height=190" />
+  <img height="150" src="https://media.discordapp.net/attachments/1353088681321304196/1353251069387603989/elnene.gif?ex=68be74c5&is=68bd2345&hm=04878501d516434922c9a7acb003b4df9bd52e5ebbf7f3593e916212d1c73ba9&=&width=448&height=190" />
 </p>
 
 ---
